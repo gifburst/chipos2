@@ -16,8 +16,8 @@ body {
 
 div#container {
   background: #000;
-  width: 480px;
-  height: 640px;
+  width: 640px;
+  height: 480px;
   margin: 0;
   position: relative;
   z-index: 0;
